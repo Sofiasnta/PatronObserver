@@ -60,7 +60,6 @@ classDiagram
     Suscriptor <|-- AvisoPorWhatsApp
 ```
 
-En la carpeta [`docs/`](docs/) están el diagrama de la implementación (`uml_tienda.png`), el diagrama del pseudocódigo de Refactoring Guru (`uml_pseudo.png`) y su versión editable para draw.io (`Actividad_2.2_UML_Observer.drawio`).
 
 ## Estructura
 
